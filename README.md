@@ -44,7 +44,7 @@ This project is a machine learning-powered web application that predicts whether
 
 3. streamlit run app.py
 
-Output Images:
+## Output Images:
 
 <img width="1913" height="916" alt="Screenshot 2025-07-22 130437" src="https://github.com/user-attachments/assets/729c5b77-3a51-4604-af58-21757e83c738" />
 
