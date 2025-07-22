@@ -46,7 +46,8 @@ This project is a machine learning-powered web application that predicts whether
 
 ## Output Images:
 
-<img width="1913" height="916" alt="Screenshot 2025-07-22 130437" src="https://github.com/user-attachments/assets/729c5b77-3a51-4604-af58-21757e83c738" />
+<img width="1868" height="907" alt="Screenshot 2025-07-22 151622" src="https://github.com/user-attachments/assets/05c42577-0872-4198-b8be-f6feb0d40e22" />
+
 
 <img width="1919" height="916" alt="Screenshot 2025-07-22 131851" src="https://github.com/user-attachments/assets/81d1df23-231f-48c6-bae6-727d86fc786e" />
 
